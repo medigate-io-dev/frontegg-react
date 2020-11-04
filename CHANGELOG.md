@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/frontegg/frontegg-react/compare/v1.3.0...v1.3.1) (2020-11-04)
+
+
+### Bug Fixes
+
+* **build:** fix prerelese versioning ([#83](https://github.com/frontegg/frontegg-react/issues/83)) ([07d1544](https://github.com/frontegg/frontegg-react/commit/07d1544562ba83aa5dbffa931117a0bd9286026c))
+
+
+
+
+
 # [1.3.0](https://github.com/frontegg/frontegg-react/compare/v1.2.0...v1.3.0) (2020-11-04)
 
 
